@@ -1,0 +1,6 @@
+C:\Users\Jesus\Documents\Mecatronica\cursos\Tipos\Tipos\bin\Debug\Tipos.exe.config
+C:\Users\Jesus\Documents\Mecatronica\cursos\Tipos\Tipos\bin\Debug\Tipos.exe
+C:\Users\Jesus\Documents\Mecatronica\cursos\Tipos\Tipos\bin\Debug\Tipos.pdb
+C:\Users\Jesus\Documents\Mecatronica\cursos\Tipos\Tipos\obj\Debug\Tipos.csprojResolveAssemblyReference.cache
+C:\Users\Jesus\Documents\Mecatronica\cursos\Tipos\Tipos\obj\Debug\Tipos.exe
+C:\Users\Jesus\Documents\Mecatronica\cursos\Tipos\Tipos\obj\Debug\Tipos.pdb

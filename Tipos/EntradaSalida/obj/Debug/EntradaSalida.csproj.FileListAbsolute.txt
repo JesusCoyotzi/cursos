@@ -1,0 +1,6 @@
+C:\Users\Jesus\Documents\Mecatronica\cursos\Tipos\EntradaSalida\bin\Debug\EntradaSalida.exe.config
+C:\Users\Jesus\Documents\Mecatronica\cursos\Tipos\EntradaSalida\bin\Debug\EntradaSalida.exe
+C:\Users\Jesus\Documents\Mecatronica\cursos\Tipos\EntradaSalida\bin\Debug\EntradaSalida.pdb
+C:\Users\Jesus\Documents\Mecatronica\cursos\Tipos\EntradaSalida\obj\Debug\EntradaSalida.exe
+C:\Users\Jesus\Documents\Mecatronica\cursos\Tipos\EntradaSalida\obj\Debug\EntradaSalida.pdb
+C:\Users\Jesus\Documents\Mecatronica\cursos\Tipos\EntradaSalida\obj\Debug\EntradaSalida.csprojResolveAssemblyReference.cache
