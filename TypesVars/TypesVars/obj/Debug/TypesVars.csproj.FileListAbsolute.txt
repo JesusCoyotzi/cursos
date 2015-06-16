@@ -1,0 +1,9 @@
+C:\Users\Jesus\Documents\Mecatronica\Cursos\C#\TypesVars\TypesVars\bin\Debug\TypesVars.exe.config
+C:\Users\Jesus\Documents\Mecatronica\Cursos\C#\TypesVars\TypesVars\bin\Debug\TypesVars.exe
+C:\Users\Jesus\Documents\Mecatronica\Cursos\C#\TypesVars\TypesVars\bin\Debug\TypesVars.pdb
+C:\Users\Jesus\Documents\Mecatronica\Cursos\C#\TypesVars\TypesVars\obj\Debug\TypesVars.csprojResolveAssemblyReference.cache
+C:\Users\Jesus\Documents\Mecatronica\Cursos\C#\TypesVars\TypesVars\obj\Debug\TypesVars.exe
+C:\Users\Jesus\Documents\Mecatronica\Cursos\C#\TypesVars\TypesVars\obj\Debug\TypesVars.pdb
+D:\Cursos\C#\TypesVars\TypesVars\bin\Debug\TypesVars.exe.config
+D:\Cursos\C#\TypesVars\TypesVars\obj\Debug\TypesVars.exe
+D:\Cursos\C#\TypesVars\TypesVars\obj\Debug\TypesVars.pdb

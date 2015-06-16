@@ -1,0 +1,9 @@
+C:\Users\Jesus\Documents\Mecatronica\Cursos\C#\STDInOut\STDInOut\bin\Debug\STDInOut.exe.config
+C:\Users\Jesus\Documents\Mecatronica\Cursos\C#\STDInOut\STDInOut\bin\Debug\STDInOut.exe
+C:\Users\Jesus\Documents\Mecatronica\Cursos\C#\STDInOut\STDInOut\bin\Debug\STDInOut.pdb
+C:\Users\Jesus\Documents\Mecatronica\Cursos\C#\STDInOut\STDInOut\obj\Debug\STDInOut.csprojResolveAssemblyReference.cache
+C:\Users\Jesus\Documents\Mecatronica\Cursos\C#\STDInOut\STDInOut\obj\Debug\STDInOut.exe
+C:\Users\Jesus\Documents\Mecatronica\Cursos\C#\STDInOut\STDInOut\obj\Debug\STDInOut.pdb
+D:\Cursos\C#\STDInOut\STDInOut\bin\Debug\STDInOut.exe.config
+D:\Cursos\C#\STDInOut\STDInOut\obj\Debug\STDInOut.exe
+D:\Cursos\C#\STDInOut\STDInOut\obj\Debug\STDInOut.pdb
