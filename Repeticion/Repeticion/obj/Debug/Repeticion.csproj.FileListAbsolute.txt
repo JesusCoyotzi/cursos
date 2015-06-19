@@ -1,0 +1,5 @@
+C:\Users\Jesus\Documents\Mecatronica\cursos\Repeticion\Repeticion\bin\Debug\Repeticion.exe.config
+C:\Users\Jesus\Documents\Mecatronica\cursos\Repeticion\Repeticion\bin\Debug\Repeticion.exe
+C:\Users\Jesus\Documents\Mecatronica\cursos\Repeticion\Repeticion\bin\Debug\Repeticion.pdb
+C:\Users\Jesus\Documents\Mecatronica\cursos\Repeticion\Repeticion\obj\Debug\Repeticion.exe
+C:\Users\Jesus\Documents\Mecatronica\cursos\Repeticion\Repeticion\obj\Debug\Repeticion.pdb

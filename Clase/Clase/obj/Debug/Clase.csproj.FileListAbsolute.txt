@@ -1,0 +1,6 @@
+C:\Users\Jesus\Documents\Mecatronica\cursos\Clase\Clase\bin\Debug\Clase.exe.config
+C:\Users\Jesus\Documents\Mecatronica\cursos\Clase\Clase\bin\Debug\Clase.exe
+C:\Users\Jesus\Documents\Mecatronica\cursos\Clase\Clase\bin\Debug\Clase.pdb
+C:\Users\Jesus\Documents\Mecatronica\cursos\Clase\Clase\obj\Debug\Clase.csprojResolveAssemblyReference.cache
+C:\Users\Jesus\Documents\Mecatronica\cursos\Clase\Clase\obj\Debug\Clase.exe
+C:\Users\Jesus\Documents\Mecatronica\cursos\Clase\Clase\obj\Debug\Clase.pdb

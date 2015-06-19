@@ -1,0 +1,6 @@
+C:\Users\Jesus\Documents\Mecatronica\cursos\Seleccion\ColorSeleccion\bin\Debug\ColorSeleccion.exe.config
+C:\Users\Jesus\Documents\Mecatronica\cursos\Seleccion\ColorSeleccion\bin\Debug\ColorSeleccion.exe
+C:\Users\Jesus\Documents\Mecatronica\cursos\Seleccion\ColorSeleccion\bin\Debug\ColorSeleccion.pdb
+C:\Users\Jesus\Documents\Mecatronica\cursos\Seleccion\ColorSeleccion\obj\Debug\ColorSeleccion.exe
+C:\Users\Jesus\Documents\Mecatronica\cursos\Seleccion\ColorSeleccion\obj\Debug\ColorSeleccion.pdb
+C:\Users\Jesus\Documents\Mecatronica\cursos\Seleccion\ColorSeleccion\obj\Debug\ColorSeleccion.csprojResolveAssemblyReference.cache

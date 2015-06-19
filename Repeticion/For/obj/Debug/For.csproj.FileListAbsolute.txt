@@ -1,0 +1,5 @@
+C:\Users\Jesus\Documents\Mecatronica\cursos\Repeticion\For\bin\Debug\For.exe.config
+C:\Users\Jesus\Documents\Mecatronica\cursos\Repeticion\For\bin\Debug\For.exe
+C:\Users\Jesus\Documents\Mecatronica\cursos\Repeticion\For\bin\Debug\For.pdb
+C:\Users\Jesus\Documents\Mecatronica\cursos\Repeticion\For\obj\Debug\For.exe
+C:\Users\Jesus\Documents\Mecatronica\cursos\Repeticion\For\obj\Debug\For.pdb

@@ -1,0 +1,6 @@
+C:\Users\Jesus\Documents\Mecatronica\cursos\Seleccion\Seleccion\bin\Debug\Seleccion.exe.config
+C:\Users\Jesus\Documents\Mecatronica\cursos\Seleccion\Seleccion\bin\Debug\Seleccion.exe
+C:\Users\Jesus\Documents\Mecatronica\cursos\Seleccion\Seleccion\bin\Debug\Seleccion.pdb
+C:\Users\Jesus\Documents\Mecatronica\cursos\Seleccion\Seleccion\obj\Debug\Seleccion.csprojResolveAssemblyReference.cache
+C:\Users\Jesus\Documents\Mecatronica\cursos\Seleccion\Seleccion\obj\Debug\Seleccion.exe
+C:\Users\Jesus\Documents\Mecatronica\cursos\Seleccion\Seleccion\obj\Debug\Seleccion.pdb

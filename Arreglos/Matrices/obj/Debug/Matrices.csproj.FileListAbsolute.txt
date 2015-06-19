@@ -1,0 +1,6 @@
+C:\Users\Jesus\Documents\Mecatronica\cursos\Arreglos\Matrices\bin\Debug\Matrices.exe.config
+C:\Users\Jesus\Documents\Mecatronica\cursos\Arreglos\Matrices\bin\Debug\Matrices.exe
+C:\Users\Jesus\Documents\Mecatronica\cursos\Arreglos\Matrices\bin\Debug\Matrices.pdb
+C:\Users\Jesus\Documents\Mecatronica\cursos\Arreglos\Matrices\obj\Debug\Matrices.csprojResolveAssemblyReference.cache
+C:\Users\Jesus\Documents\Mecatronica\cursos\Arreglos\Matrices\obj\Debug\Matrices.exe
+C:\Users\Jesus\Documents\Mecatronica\cursos\Arreglos\Matrices\obj\Debug\Matrices.pdb
