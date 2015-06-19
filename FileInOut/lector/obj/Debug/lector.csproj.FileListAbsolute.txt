@@ -1,0 +1,5 @@
+C:\Users\Jesus\Documents\Mecatronica\cursos\FileIO\lector\bin\Debug\lector.exe.config
+C:\Users\Jesus\Documents\Mecatronica\cursos\FileIO\lector\bin\Debug\lector.exe
+C:\Users\Jesus\Documents\Mecatronica\cursos\FileIO\lector\bin\Debug\lector.pdb
+C:\Users\Jesus\Documents\Mecatronica\cursos\FileIO\lector\obj\Debug\lector.exe
+C:\Users\Jesus\Documents\Mecatronica\cursos\FileIO\lector\obj\Debug\lector.pdb

@@ -1,0 +1,12 @@
+C:\Users\Jesus\Documents\Mecatronica\Cursos\C#\FileIO\FileIO\bin\Debug\FileIO.exe.config
+C:\Users\Jesus\Documents\Mecatronica\Cursos\C#\FileIO\FileIO\bin\Debug\FileIO.exe
+C:\Users\Jesus\Documents\Mecatronica\Cursos\C#\FileIO\FileIO\bin\Debug\FileIO.pdb
+C:\Users\Jesus\Documents\Mecatronica\Cursos\C#\FileIO\FileIO\obj\Debug\FileIO.csprojResolveAssemblyReference.cache
+C:\Users\Jesus\Documents\Mecatronica\Cursos\C#\FileIO\FileIO\obj\Debug\FileIO.exe
+C:\Users\Jesus\Documents\Mecatronica\Cursos\C#\FileIO\FileIO\obj\Debug\FileIO.pdb
+D:\Cursos\C#\FileIO\FileIO\bin\Debug\FileIO.exe.config
+D:\Cursos\C#\FileIO\FileIO\obj\Debug\FileIO.exe
+D:\Cursos\C#\FileIO\FileIO\obj\Debug\FileIO.pdb
+D:\Cursos\C#\FileIO\FileIO\bin\Debug\FileIO.exe
+D:\Cursos\C#\FileIO\FileIO\bin\Debug\FileIO.pdb
+D:\Cursos\C#\FileIO\FileIO\obj\Debug\FileIO.csprojResolveAssemblyReference.cache

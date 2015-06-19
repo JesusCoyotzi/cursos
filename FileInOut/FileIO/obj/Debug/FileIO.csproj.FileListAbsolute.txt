@@ -1,0 +1,6 @@
+C:\Users\Jesus\Documents\Mecatronica\cursos\FileIO\FileIO\bin\Debug\FileIO.exe.config
+C:\Users\Jesus\Documents\Mecatronica\cursos\FileIO\FileIO\obj\Debug\FileIO.csprojResolveAssemblyReference.cache
+C:\Users\Jesus\Documents\Mecatronica\cursos\FileIO\FileIO\bin\Debug\FileIO.exe
+C:\Users\Jesus\Documents\Mecatronica\cursos\FileIO\FileIO\bin\Debug\FileIO.pdb
+C:\Users\Jesus\Documents\Mecatronica\cursos\FileIO\FileIO\obj\Debug\FileIO.exe
+C:\Users\Jesus\Documents\Mecatronica\cursos\FileIO\FileIO\obj\Debug\FileIO.pdb
