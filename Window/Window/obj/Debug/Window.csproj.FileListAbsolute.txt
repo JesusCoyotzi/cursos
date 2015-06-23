@@ -1,0 +1,9 @@
+C:\Users\Jesus\Documents\Mecatronica\cursos\Window\Window\bin\Debug\Window.exe.config
+C:\Users\Jesus\Documents\Mecatronica\cursos\Window\Window\bin\Debug\Window.exe
+C:\Users\Jesus\Documents\Mecatronica\cursos\Window\Window\bin\Debug\Window.pdb
+C:\Users\Jesus\Documents\Mecatronica\cursos\Window\Window\obj\Debug\Window.csprojResolveAssemblyReference.cache
+C:\Users\Jesus\Documents\Mecatronica\cursos\Window\Window\obj\Debug\Window.Form1.resources
+C:\Users\Jesus\Documents\Mecatronica\cursos\Window\Window\obj\Debug\Window.Properties.Resources.resources
+C:\Users\Jesus\Documents\Mecatronica\cursos\Window\Window\obj\Debug\Window.csproj.GenerateResource.Cache
+C:\Users\Jesus\Documents\Mecatronica\cursos\Window\Window\obj\Debug\Window.exe
+C:\Users\Jesus\Documents\Mecatronica\cursos\Window\Window\obj\Debug\Window.pdb
